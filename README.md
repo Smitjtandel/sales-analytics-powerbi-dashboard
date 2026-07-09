@@ -1,15 +1,16 @@
-# Hi there 👋, I'm Smit Jitendra Tandel
+<div align="center">
+
+# Hi 👋, I'm Smit Jitendra Tandel
 
 ### B.Tech Electrical & Computer Engineering Student
-### Exploring Software Development, AI, Data Analytics & Emerging Technologies
 
-## 🚀 About Me
+### Exploring Software Development • AI • Data • Cloud • Emerging Technologies
 
-- 🎓 Third-Year B.Tech Electrical & Computer Engineering Student
-- 💻 Passionate about technology and continuous learning
-- 🌱 Currently exploring Power BI, SQL, Python, AI and Backend Development
-- 🛠 Building projects to strengthen practical skills
-- 📚 Always learning something new
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies;Building+Projects+to+Learn;Power+BI+%7C+Python+%7C+SQL;Exploring+AI+and+Software+Development" />
+
+</div>
+
+---
 
 # 📊 Sales Analytics Power BI Dashboard
 
