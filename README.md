@@ -1,17 +1,3 @@
-<div align="center">
-
-# Hi 👋, I'm Smit Jitendra Tandel
-
-### B.Tech Electrical & Computer Engineering Student
-
-### Exploring Software Development • AI • Data • Cloud • Emerging Technologies
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies;Building+Projects+to+Learn;Power+BI+%7C+Python+%7C+SQL;Exploring+AI+and+Software+Development" />
-
-</div>
-
----
-
 # 📊 Sales Analytics Power BI Dashboard
 
 An end-to-end Business Intelligence project developed using **Microsoft Power BI** to transform raw sales data into meaningful business insights through interactive dashboards.
