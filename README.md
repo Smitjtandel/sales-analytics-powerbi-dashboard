@@ -1,3 +1,16 @@
+# Hi there 👋, I'm Smit Jitendra Tandel
+
+### B.Tech Electrical & Computer Engineering Student
+### Exploring Software Development, AI, Data Analytics & Emerging Technologies
+
+## 🚀 About Me
+
+- 🎓 Third-Year B.Tech Electrical & Computer Engineering Student
+- 💻 Passionate about technology and continuous learning
+- 🌱 Currently exploring Power BI, SQL, Python, AI and Backend Development
+- 🛠 Building projects to strengthen practical skills
+- 📚 Always learning something new
+
 # 📊 Sales Analytics Power BI Dashboard
 
 An end-to-end Business Intelligence project developed using **Microsoft Power BI** to transform raw sales data into meaningful business insights through interactive dashboards.
